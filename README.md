@@ -5,4 +5,6 @@
 #### Note: If Python Notebook doesn't render, copy url in https://nbviewer.jupyter.org
 
 
-![Trained Agent](https://github.com/naneja/MountainCar-CE/blob/master/vid/openaigym.video.0.37533.video000000.gif)
+![Trained Agent](https://github.com/naneja/CartPole-Hill-Climbing/blob/master/vid/openaigym.video.0.37533.video000000.gif)
+
+
